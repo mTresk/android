@@ -13,6 +13,9 @@
   <remote  name="omnirom"
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
+
+  <remote  name="mtresk-gitlab"
+           fetch="https://gitlab.com/mTresk/" />
            
 
   <project path="bionic" name="android_bionic" remote="omnirom" revision="android-8.1" groups="pdk" />
