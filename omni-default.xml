@@ -14,7 +14,7 @@
   <project path="android" name="android" remote="mtresk" revision="android-8.1" />
 
   <project path="vendor/omni" name="android_vendor_omni" remote="mtresk" revision="android-8.1" />
-  <project path="vendor/oneplus" name="proprietary_vendor_oneplus" remote="mtresk" revision="android-8.1" />
+  <project path="vendor/oneplus" name="proprietary_vendor_oneplus" remote="mtresk-gitlab" revision="android-8.1" />
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="mtresk" revision="android-8.1" />
   
 
