@@ -31,7 +31,7 @@
   <project path="packages/apps/OmniLib" name="android_packages_apps_OmniLib" remote="mtresk" revision="android-8.1" />
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="mtresk" revision="android-8.1" />
   <project path="packages/apps/Phonograph" name="android_packages_apps_Phonograph" remote="omnirom" revision="android-8.1" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="mtresk-gitlab" revision="oreo-mr1" />
+  <!--<project path="vendor/gapps" name="vendor_gapps" remote="mtresk-gitlab" revision="oreo-mr1" /> -->
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="mtresk-gitlab" revision="android-8.1" />
   <project path="packages/apps/OpenDelta" name="android_packages_apps_OpenDelta" remote="mtresk" revision="android-8.1" />
   
